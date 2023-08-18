@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+ol,ul {
+    list-style: none;
+    color: #999;
+    padding: 50px;
+}
+
+li{
+    margin: 0 0 150px 0;
+}
+
+
+a{
+    font-size: 50%;
+}
+
+.left{
+    margin: 0 0 10px 0;
+}
+
+#left-text{
+    margin: 30px 0 30px 0;
+}
+
+.github{
+    width: 35%;
+}
+
+.gitee{
+    width: 35%;
+}
+
+.box{
+    padding: 0 0 50px 0;
+    border-block-end: solid; 
+    border-block-end-width: 1px; 
+    writing-mode: horizontal-tb;
+}
+
+p{
+    padding: 20px 0 20px 0;
+}
